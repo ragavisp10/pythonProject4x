@@ -1,3 +1,4 @@
+#Program to find type ofi/p
 # Keywords and identifiers
 # import keyword
 # print(keyword.kwlist)
